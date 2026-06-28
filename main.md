@@ -2,8 +2,6 @@
 ## 可迭代的按照搜索问题建立项目文件夹，输出对应的以及md 
 
 # 知乎apikey
-8a56465eeab44ac756edcea402e2fb0a04c7aaca
-
 # 知乎skill压缩包
 https://developer.zhihu.com/download/zhihu_search_skills.zip
 
